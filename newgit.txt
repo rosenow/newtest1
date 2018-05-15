@@ -1,0 +1,9 @@
+git init - This creates a new subdirectory named .git that contains all of
+your necessary repository files?—?a Git repository skeleton. At this point,
+nothing in your project is tracked yet.
+git clone URLtoRepository - If you want to get a copy of an
+existing Git repository?—?for example, a project you’d like to contribute
+to
+git clone URLtoRepository localFolder - If you want to
+clone the repository into a directory named something different than
+default
