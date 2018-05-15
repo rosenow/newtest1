@@ -1,0 +1,2 @@
+sfs
+When changing drives, you just need to type the drive letter, like d: (EDIT: don't use the backslash, like d:\; it doesn't work). You only use cd when moving between directories within a drive.
